@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #111;
+  color: white;
+}
+.hidden { display: none; }
